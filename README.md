@@ -1,5 +1,7 @@
 ## Project Summary
 
+This repository belongs to the [Sub1-Ghz-RF-Data-TX-RX](https://github.com/marcfarssac/Sub1-Ghz-RF-Data-TX-RX) project as explained below. Refer to the Readme file of that one to know about the project. Read below to know about this repository.
+
 This project contains settings to disable the standard debug features in TI-RTOS projects for the CC1310 SimpleLink Sub-1 GHz Ultra-Low Power Wireless Microcontroller. It has been used in the "IoT temperature sensors" project from Marc Farssac using the following configuration.
 
 ### Project configuration summary
